@@ -1,5 +1,5 @@
 *{
-   
+  background:linear-gradient(to bottom, #1E90FF 5%, #F8F8FF 100%); 
 }
 body{
 text-align: center
@@ -13,8 +13,7 @@ font: inherit;
 font-family: Karla, sans-serif;
 font-size: 16px;
 font-weight: 700;
-background:linear-gradient(to bottom, #1E90FF 5%, #F8F8FF 100%); 
-    
+
 }
 img{
   margin-top: 30px;
