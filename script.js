@@ -9,5 +9,5 @@ function EventoC(){
  }
 
 function EventoD(){
-  window.open("https://www.instagram.com/danielleelara");
+  window.open("https://www.instagram.com/danisouzadev/");
  }
